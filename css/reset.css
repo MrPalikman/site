@@ -26,7 +26,7 @@ a:active {
 a,
 a:link,
 a:visited {
-  /* color: inherit; */
+  color: inherit;
   text-decoration: none;
   /* display: inline-block; */
 }
@@ -61,6 +61,8 @@ p {
 ul,
 ul li {
   list-style: none;
+  text-decoration: none;
+  color: inherit;
 }
 
 /* img {
