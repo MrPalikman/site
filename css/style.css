@@ -710,6 +710,9 @@ p {
     width: 34px;
     height: 38px;
   }
+  body.lock{
+    overflow: hidden;
+  }
   /* burger------------------------------- */
   .navbar-burger.active{
     top: 9px;
