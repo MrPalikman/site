@@ -580,6 +580,9 @@ p {
 }
 /* media------------- */
 @media (max-width: 1200px) {
+  body.lock{
+    overflow: hidden;
+  }
   .container {
     max-width: 720px;
     margin: 0 auto;
@@ -629,7 +632,7 @@ p {
     align-items: center;
   }
    .navbar-burger {
-    padding-left: 18px;
+    
     padding-bottom: 31px;
     z-index: 3;
   }
@@ -669,6 +672,12 @@ p {
     z-index: 2;
     margin-top: 50px;
   }
+  .navbar-list__item:not(:last-child) {
+    padding: 0;
+   }
+   .navbar-list__item {
+    margin: 10px 0;
+  } 
 }
 @media (max-width: 719px) {
   h2 {
@@ -743,7 +752,7 @@ p {
     height: 17px;
   }
   .navbar-burger {
-    padding-left: 18px;
+    
     padding-bottom: 31px;
     z-index: 3;
   }

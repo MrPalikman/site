@@ -153,13 +153,13 @@ body {
 /* popup */
 /* swiper */
 .swiper-slide img {
-  max-width: 100%;
-  object-fit: cover;
+  max-width: 84%;
+  object-fit: cover ;
   /* margin-top: 100px; */
 }
 .swiper-zoom-container {
   width: 100%;
-  height: 92%;
+  height: -webkit-fill-available !important;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -371,6 +371,9 @@ body {
 /* modal */
 
 @media (max-width: 1200px) {
+  body.lock{
+    overflow: hidden;
+  }
   .container {
     max-width: 720px;
     margin: 0 auto;
@@ -398,7 +401,7 @@ body {
   .contents{
     display: grid;
     grid-template-columns: repeat(4,1fr);
-    grid-gap: 30px 70px;
+    grid-gap: 30px 20px;
     margin-bottom: 20px;
   }
   .tabs__btn-item {
@@ -418,12 +421,63 @@ body {
     } 
     .contents{
       display: grid;
-      grid-template-columns: repeat(4,1fr);
+      grid-template-columns: repeat(3,1fr);
       grid-gap: 30px 70px;
       margin-bottom: 20px;
     }
+    .navbar-burger {
+      
+      padding-bottom: 31px;
+      z-index: 3;
+    }
+    
+    .navbar-burger.active{
+      top: 9px;
+      right: 10%;
+      display: block;
+      position: absolute;
+    }
+    .navbar-burger img{
+      /* position: absolute;
+      left: 0;
+      top: 9px;
+      width: 100%; */
+    }
+    .navbar{
+      display: block;
+      position: fixed;
+      top: -100%;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: #009688;
+      transition: all 0.3s ease 0s;
+      overflow: auto;
+    }
+    .navbar.active{
+      top: 0;
+      z-index: 1;
+    }
+    .navbar-list{
+      display: flex;
+      flex-direction: column;
+      /* align-items: center; */
+      padding: 15px;
+      position: relative;
+      z-index: 2;
+      margin-top: 50px;
+    }
+    .navbar-list__item:not(:last-child) {
+      padding: 0;
+     }
+     .navbar-list__item {
+      margin: 10px 0;
+    } 
 }
 @media (max-width: 719px){
+  body.lock{
+    overflow: hidden;
+  }
   h2 {
     white-space: normal;
     font-weight: 600;
@@ -495,7 +549,7 @@ body {
     height: 17px;
   }
   .navbar-burger {
-    padding-left: 18px;
+    
     padding-bottom: 31px;
   }
   .navbar-burger img {
@@ -505,7 +559,7 @@ body {
   .contents{
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    grid-gap: 30px 70px;
+    grid-gap: 30px 10px;
     margin-bottom: 20px;
   }
 
