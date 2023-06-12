@@ -600,4 +600,11 @@ body {
       .modal__main{
         max-width: 300px;
       }
+      
+      .slider {
+      width: 216px;
+      }
+      .swiper, swiper-containe{
+        position: relative;
+      }
 }
