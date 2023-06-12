@@ -752,8 +752,8 @@ p {
     height: 17px;
   }
   .navbar-burger {
-    
-    padding-bottom: 31px;
+    margin: 0 0 34px 22px;
+    /* padding-bottom: 31px; */
     z-index: 3;
   }
   .navbar-burger img {

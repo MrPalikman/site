@@ -426,8 +426,8 @@ body {
       margin-bottom: 20px;
     }
     .navbar-burger {
-      
-      padding-bottom: 31px;
+      margin: 0 0 34px 24px
+      /* padding-bottom: 31px; */
       z-index: 3;
     }
     
