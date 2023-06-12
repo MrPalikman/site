@@ -597,4 +597,7 @@ body {
         z-index: 0
         ;
       }
+      .modal__main{
+        max-width: 300px;
+      }
 }
