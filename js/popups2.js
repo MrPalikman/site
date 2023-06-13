@@ -1166,3 +1166,652 @@ modalController({
   btnOpen: ".section__buttonKp40",
   btnClose: ".modal__close",
 });
+
+
+// --------------------------gorizontal-----------------------------------------
+
+modalController({
+  modal: ".modalГ1",
+  btnOpen: ".section__buttonГ1",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ2",
+  btnOpen: ".section__buttonГ2",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ3",
+  btnOpen: ".section__buttonГ3",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ4",
+  btnOpen: ".section__buttonГ4",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ5",
+  btnOpen: ".section__buttonГ5",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ6",
+  btnOpen: ".section__buttonГ6",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ7",
+  btnOpen: ".section__buttonГ7",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ8",
+  btnOpen: ".section__buttonГ8",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ9",
+  btnOpen: ".section__buttonГ9",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ10",
+  btnOpen: ".section__buttonГ10",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ11",
+  btnOpen: ".section__buttonГ11",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ12",
+  btnOpen: ".section__buttonГ12",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ13",
+  btnOpen: ".section__buttonГ13",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ14",
+  btnOpen: ".section__buttonГ14",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ15",
+  btnOpen: ".section__buttonГ15",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ16",
+  btnOpen: ".section__buttonГ16",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ17",
+  btnOpen: ".section__buttonГ17",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ18",
+  btnOpen: ".section__buttonГ18",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ19",
+  btnOpen: ".section__buttonГ19",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ20",
+  btnOpen: ".section__buttonГ20",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ21",
+  btnOpen: ".section__buttonГ21",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ22",
+  btnOpen: ".section__buttonГ22",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ23",
+  btnOpen: ".section__buttonГ23",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ24",
+  btnOpen: ".section__buttonГ24",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ25",
+  btnOpen: ".section__buttonГ25",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ26",
+  btnOpen: ".section__buttonГ26",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ27",
+  btnOpen: ".section__buttonГ27",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ28",
+  btnOpen: ".section__buttonГ28",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ29",
+  btnOpen: ".section__buttonГ29",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ30",
+  btnOpen: ".section__buttonГ30",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ31",
+  btnOpen: ".section__buttonГ31",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ32",
+  btnOpen: ".section__buttonГ32",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ33",
+  btnOpen: ".section__buttonГ33",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ34",
+  btnOpen: ".section__buttonГ34",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ35",
+  btnOpen: ".section__buttonГ35",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ36",
+  btnOpen: ".section__buttonГ36",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ37",
+  btnOpen: ".section__buttonГ37",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ38",
+  btnOpen: ".section__buttonГ38",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ39",
+  btnOpen: ".section__buttonГ39",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ40",
+  btnOpen: ".section__buttonГ40",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ41",
+  btnOpen: ".section__buttonГ41",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ42",
+  btnOpen: ".section__buttonГ42",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ43",
+  btnOpen: ".section__buttonГ43",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ44",
+  btnOpen: ".section__buttonГ44",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ45",
+  btnOpen: ".section__buttonГ45",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ46",
+  btnOpen: ".section__buttonГ46",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ47",
+  btnOpen: ".section__buttonГ47",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ48",
+  btnOpen: ".section__buttonГ48",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ49",
+  btnOpen: ".section__buttonГ49",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ50",
+  btnOpen: ".section__buttonГ50",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ51",
+  btnOpen: ".section__buttonГ51",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ52",
+  btnOpen: ".section__buttonГ52",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ53",
+  btnOpen: ".section__buttonГ53",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ54",
+  btnOpen: ".section__buttonГ54",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ55",
+  btnOpen: ".section__buttonГ55",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ56",
+  btnOpen: ".section__buttonГ56",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ57",
+  btnOpen: ".section__buttonГ57",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ58",
+  btnOpen: ".section__buttonГ58",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ59",
+  btnOpen: ".section__buttonГ59",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ60",
+  btnOpen: ".section__buttonГ60",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ61",
+  btnOpen: ".section__buttonГ61",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ62",
+  btnOpen: ".section__buttonГ62",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ63",
+  btnOpen: ".section__buttonГ63",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ64",
+  btnOpen: ".section__buttonГ64",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ65",
+  btnOpen: ".section__buttonГ65",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ66",
+  btnOpen: ".section__buttonГ66",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ67",
+  btnOpen: ".section__buttonГ67",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ68",
+  btnOpen: ".section__buttonГ68",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ69",
+  btnOpen: ".section__buttonГ69",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ70",
+  btnOpen: ".section__buttonГ70",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ71",
+  btnOpen: ".section__buttonГ71",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ72",
+  btnOpen: ".section__buttonГ72",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ73",
+  btnOpen: ".section__buttonГ73",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ74",
+  btnOpen: ".section__buttonГ74",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ75",
+  btnOpen: ".section__buttonГ75",
+  btnClose: ".modal__close",
+})
+modalController({
+  modal: ".modalГ76",
+  btnOpen: ".section__buttonГ76",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ77",
+  btnOpen: ".section__buttonГ77",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ78",
+  btnOpen: ".section__buttonГ78",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ79",
+  btnOpen: ".section__buttonГ79",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ80",
+  btnOpen: ".section__buttonГ80",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ81",
+  btnOpen: ".section__buttonГ81",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ82",
+  btnOpen: ".section__buttonГ82",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ83",
+  btnOpen: ".section__buttonГ83",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ84",
+  btnOpen: ".section__buttonГ84",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ85",
+  btnOpen: ".section__buttonГ85",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ86",
+  btnOpen: ".section__buttonГ86",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ87",
+  btnOpen: ".section__buttonГ87",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ88",
+  btnOpen: ".section__buttonГ88",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ89",
+  btnOpen: ".section__buttonГ89",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ90",
+  btnOpen: ".section__buttonГ90",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ91",
+  btnOpen: ".section__buttonГ91",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ92",
+  btnOpen: ".section__buttonГ92",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ93",
+  btnOpen: ".section__buttonГ93",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ94",
+  btnOpen: ".section__buttonГ94",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ95",
+  btnOpen: ".section__buttonГ95",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ96",
+  btnOpen: ".section__buttonГ96",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ97",
+  btnOpen: ".section__buttonГ97",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ98",
+  btnOpen: ".section__buttonГ98",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ99",
+  btnOpen: ".section__buttonГ99",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ100",
+  btnOpen: ".section__buttonГ100",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ101",
+  btnOpen: ".section__buttonГ101",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ102",
+  btnOpen: ".section__buttonГ102",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ103",
+  btnOpen: ".section__buttonГ103",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ104",
+  btnOpen: ".section__buttonГ104",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ105",
+  btnOpen: ".section__buttonГ105",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ106",
+  btnOpen: ".section__buttonГ106",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ107",
+  btnOpen: ".section__buttonГ107",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ108",
+  btnOpen: ".section__buttonГ108",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ109",
+  btnOpen: ".section__buttonГ109",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ110",
+  btnOpen: ".section__buttonГ110",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ111",
+  btnOpen: ".section__buttonГ111",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ112",
+  btnOpen: ".section__buttonГ112",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ113",
+  btnOpen: ".section__buttonГ113",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ114",
+  btnOpen: ".section__buttonГ114",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ115",
+  btnOpen: ".section__buttonГ115",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ116",
+  btnOpen: ".section__buttonГ116",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ117",
+  btnOpen: ".section__buttonГ117",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ118",
+  btnOpen: ".section__buttonГ118",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ119",
+  btnOpen: ".section__buttonГ119",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ120",
+  btnOpen: ".section__buttonГ120",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ121",
+  btnOpen: ".section__buttonГ121",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ122",
+  btnOpen: ".section__buttonГ122",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ123",
+  btnOpen: ".section__buttonГ123",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ124",
+  btnOpen: ".section__buttonГ124",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ125",
+  btnOpen: ".section__buttonГ125",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ126",
+  btnOpen: ".section__buttonГ126",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ127",
+  btnOpen: ".section__buttonГ127",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ128",
+  btnOpen: ".section__buttonГ128",
+  btnClose: ".modal__close",
+});
+modalController({
+  modal: ".modalГ129",
+  btnOpen: ".section__buttonГ129",
+  btnClose: ".modal__close",
+});
